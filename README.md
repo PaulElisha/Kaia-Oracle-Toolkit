@@ -20,8 +20,8 @@ Provides an example of how to integrate the Pyth price feed into your dApp to ac
 To get started with the toolkit, clone the repository and install the necessary dependencies.
 
 ```bash
-git clone https://github.com/PaulElisha/Kaia-Toolkit-Oracle.git
-cd Kaia-Toolkit-toolkit
+git clone https://github.com/PaulElisha/Kaia-Oracle-Toolkit.git
+cd Kaia-Oracle-Toolkit
 forge install
 ```
 
